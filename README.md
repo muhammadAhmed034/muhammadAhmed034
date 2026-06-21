@@ -1,5 +1,5 @@
 #  Hey there, I'm Muhammad Ahmed
-> **Undergraduate Data Science Student | ML & MLOps Engineer**
+> **Undergraduate Data Science Student | Specializing in ML & MLOps Pipeline Development**
 
 ---
 
